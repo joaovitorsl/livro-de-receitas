@@ -1,6 +1,6 @@
 
 # Livro de Receitas
-![Livro de Receitas Logo](https://i.imgur.com/TPTsHKi.png =150x150)
+<img src="https://i.imgur.com/TPTsHKi.png" alt="drawing" width="200"/>
 
 Primeira ideia que surgiu durante a quarentena do COVID-19. O Livro de Receitas é um compilado de receitas que já foram feitas e deu certo, retiradas de livros, internet e até da família mesmo para facilitar a busca quando for fazer.
 
