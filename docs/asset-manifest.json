@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/static/css/main.39e8d008.chunk.css",
+    "main.js": "/static/js/main.c64dfe5d.chunk.js",
+    "main.js.map": "/static/js/main.c64dfe5d.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.fb420de3.js",
+    "runtime-main.js.map": "/static/js/runtime-main.fb420de3.js.map",
+    "static/css/2.de424728.chunk.css": "/static/css/2.de424728.chunk.css",
+    "static/js/2.0d91787d.chunk.js": "/static/js/2.0d91787d.chunk.js",
+    "static/js/2.0d91787d.chunk.js.map": "/static/js/2.0d91787d.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.039e5cb4293158dc2d388e14bec9d1a4.js": "/precache-manifest.039e5cb4293158dc2d388e14bec9d1a4.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.de424728.chunk.css.map": "/static/css/2.de424728.chunk.css.map",
+    "static/css/main.39e8d008.chunk.css.map": "/static/css/main.39e8d008.chunk.css.map",
+    "static/js/2.0d91787d.chunk.js.LICENSE.txt": "/static/js/2.0d91787d.chunk.js.LICENSE.txt",
+    "static/media/main.css": "/static/media/background.0be892e1.png",
+    "static/media/bolosorvete.png": "/static/media/bolosorvete.39e2e805.png",
+    "static/media/brigadeiro.png": "/static/media/brigadeiro.2ac571d1.png",
+    "static/media/cookie-renan.png": "/static/media/cookie-renan.c5d42cc5.png",
+    "static/media/crepe.png": "/static/media/crepe.26b4c393.png",
+    "static/media/crepioca.png": "/static/media/crepioca.47c26dec.png",
+    "static/media/favicon.png": "/static/media/favicon.ecc3a368.png",
+    "static/media/lasanha-joao.png": "/static/media/lasanha-joao.0eea3a50.png",
+    "static/media/torta-joao.png": "/static/media/torta-joao.9b546033.png",
+    "static/media/tortapizza.jpg": "/static/media/tortapizza.6d7c9c8e.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fb420de3.js",
+    "static/css/2.de424728.chunk.css",
+    "static/js/2.0d91787d.chunk.js",
+    "static/css/main.39e8d008.chunk.css",
+    "static/js/main.c64dfe5d.chunk.js"
+  ]
+}
