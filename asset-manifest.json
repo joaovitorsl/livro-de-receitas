@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/livro/static/css/main.b141040f.chunk.css",
-    "main.js": "/livro/static/js/main.b4644fe5.chunk.js",
-    "main.js.map": "/livro/static/js/main.b4644fe5.chunk.js.map",
+    "main.js": "/livro/static/js/main.b9a70311.chunk.js",
+    "main.js.map": "/livro/static/js/main.b9a70311.chunk.js.map",
     "runtime-main.js": "/livro/static/js/runtime-main.f72121d9.js",
     "runtime-main.js.map": "/livro/static/js/runtime-main.f72121d9.js.map",
     "static/css/2.de424728.chunk.css": "/livro/static/css/2.de424728.chunk.css",
     "static/js/2.0d91787d.chunk.js": "/livro/static/js/2.0d91787d.chunk.js",
     "static/js/2.0d91787d.chunk.js.map": "/livro/static/js/2.0d91787d.chunk.js.map",
     "index.html": "/livro/index.html",
-    "precache-manifest.ba2e2e7234698d85f5e24a34dc064ed2.js": "/livro/precache-manifest.ba2e2e7234698d85f5e24a34dc064ed2.js",
+    "precache-manifest.6558ddfc8bb195d585f4f70cdab6f908.js": "/livro/precache-manifest.6558ddfc8bb195d585f4f70cdab6f908.js",
     "service-worker.js": "/livro/service-worker.js",
     "static/css/2.de424728.chunk.css.map": "/livro/static/css/2.de424728.chunk.css.map",
     "static/css/main.b141040f.chunk.css.map": "/livro/static/css/main.b141040f.chunk.css.map",
@@ -30,6 +30,6 @@
     "static/css/2.de424728.chunk.css",
     "static/js/2.0d91787d.chunk.js",
     "static/css/main.b141040f.chunk.css",
-    "static/js/main.b4644fe5.chunk.js"
+    "static/js/main.b9a70311.chunk.js"
   ]
 }
