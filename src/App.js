@@ -5,6 +5,7 @@ import './main.css';
 import './receita.css';
 import receitas from './receitas.js';
 import favicon from './images/favicon.png';
+import { HashRouter } from 'react-router-dom';
 
 import {
   BrowserRouter as Router,
@@ -16,7 +17,7 @@ import {
 
 export default function App() {
   return (
-    <Router>
+    <HashRouter basename={process.env.PUBLIC_URL}>
       <div>
         {/* A <Switch> looks through its children <Route>s and
             renders the first one that matches the current URL. */}
@@ -29,7 +30,7 @@ export default function App() {
           </Route>
         </Switch>
       </div>
-    </Router>
+    </HashRouter>
   );
 }
 
