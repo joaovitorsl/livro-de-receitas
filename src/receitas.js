@@ -133,7 +133,7 @@ const receitas = [
             "Acrescente o ovo e a essência e mexa novamente até ficar homogêneo;",
             "Peneire a farinha e o bicarbonato, misture com a massa novamente até ficar homogênea;",
             "Pique os chocolates, misture-os na massa e reserve na geladeira com papel filme (quanto mais tempo, melhor);",
-            "Faça bolinhas com a massa e espalhe com uma distância considerável por uma forma forrada com papel manteiga",
+            "Faça bolinhas com a massa e espalhe com uma distância considerável por uma forma forrada com papel manteiga;",
             "Leve ao forno à 180°C por 12-15 minutos."
         ],
         foto: cookie,
@@ -174,7 +174,7 @@ const receitas = [
             "Coloque os primeiros ingredientes (líquidos, sal e açúcar);",
             "Acrescente os demais ingredientes com exceção do fermento em pó;",
             "Após a massa ficar homogênea e no ponto, coloque o fermento em pó e bata por mais alguns segundos;",
-            "Agora é só colocar a massa na máquina de crepe com o recheio espetado e esperar por [falta ver o tempo].",
+            "Agora é só colocar a massa na máquina de crepe com o recheio espetado e esperar por [falta ver o tempo];",
             "OBS: NÃO abra a máquina antes do tempo para não murchar."
         ],
         foto: crepe,
@@ -202,7 +202,7 @@ const receitas = [
                 nome: "orégano ",
             },
             {
-                qtd: "A gosto",
+                qtd: "A gosto:",
                 nome: "sal",
             },
             {
@@ -248,19 +248,19 @@ const receitas = [
                 nome: "peito de frango",
             },
             {
-                qtd: "500g",
+                qtd: "500g de",
                 nome: "queijo mussarela fatiado",
             },
             {
-                qtd: "400g",
+                qtd: "400g de",
                 nome: "presuto fatiado",
             },
             {
-                qtd: "1 pacote médio",
+                qtd: "1 pacote médio de",
                 nome: "massa para lasanha (sem cozimento prévio)",
             },
             {
-                qtd: "1 pote",
+                qtd: "1 pote de",
                 nome: "requeijão cremoso",
             },
             {
@@ -268,19 +268,19 @@ const receitas = [
                 nome: "caldos de galinha (ou tempero completo sabor galinha)",
             },
             {
-                qtd: "2 copos",
+                qtd: "2 copos de",
                 nome: "leite",
             },
             {
-                qtd: "1 caixa",
+                qtd: "1 caixa de",
                 nome: "creme de leite",
             },
             {
-                qtd: "2 colheres (sopa)",
+                qtd: "2 colheres (sopa) de",
                 nome: "farinha de trigo",
             },
             {
-                qtd: "3 colheres (sopa)",
+                qtd: "3 colheres (sopa) de",
                 nome: "manteiga",
             },
             {
@@ -317,7 +317,7 @@ const receitas = [
             },
             {
                 qtd: "100ml de",
-                nome: "creme de leite",
+                nome: "creme de leite (opcional)",
             }
         ],
         preparo: [
@@ -361,31 +361,31 @@ const receitas = [
             },
             {
                 qtd: "1 xícara (chá) de",
-                nome: "presunto picado (opicional)",
+                nome: "presunto picado (opcional)",
             },
             {
                 qtd: "1 gomo de",
-                nome: "linguiça calabresa cortada em rodelas (opicional)",
+                nome: "linguiça calabresa cortada em rodelas (opcional)",
             },
             {
                 qtd: "A gosto:",
-                nome: "rodelas de tomates (opicional)",
+                nome: "rodelas de tomates (opcional)",
             },
             {
                 qtd: "3 xícaras (chá) de",
-                nome: "muçarela ralada (opicional)",
+                nome: "muçarela ralada (opcional)",
             },
             {
                 qtd: "A gosto:",
-                nome: "azeitonas verdes (opicional)",
+                nome: "azeitonas verdes (opcional)",
             },
             {
                 qtd: "A gosto:",
-                nome: "orégano (opicional)",
+                nome: "orégano (opcional)",
             }
         ],
         preparo: [
-            "Bata por 2 minutos os ovos, o óleo, o leite e metade da farinha de trigo no liquidificador",
+            "Bata por 2 minutos os ovos, o óleo, o leite e metade da farinha de trigo no liquidificador;",
             "Transfira uma tigela e adicione o restante da farinha de trigo e o sal. Misture;",
             "Acrescente o fermento em pó e misture novamente;",
             "Em uma forma untada (com manteiga e farinha) despeje metade da massa;",
