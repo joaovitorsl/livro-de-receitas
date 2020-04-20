@@ -12,23 +12,23 @@ const receitas = [
         titulo: "Bolo de Sorvete",
         ingredientes: [
             {
-                qtd: "200ml",
+                qtd: "200ml de",
                 nome: "água",
             },
             {
-                qtd: "1/2 xícara (chá)",
+                qtd: "1/2 xícara (chá) de",
                 nome: "achocolatado em pó",
             },
             {
-                qtd: "1 pitada",
+                qtd: "1 pitada de",
                 nome: "sal",
             },
             {
-                qtd: "1/2 colher (chá)",
+                qtd: "1/2 colher (chá) de",
                 nome: "café solúvel",
             },
             {
-                qtd: "1 lata",
+                qtd: "1 lata de",
                 nome: "leite condensado",
             },
             {
@@ -36,7 +36,7 @@ const receitas = [
                 nome: "gemas peneiradas",
             },
             {
-                qtd: "2 xícaras (chá)",
+                qtd: "2 xícaras (chá) de",
                 nome: "leite",
             },
             {
@@ -44,7 +44,7 @@ const receitas = [
                 nome: "claras",
             },
             {
-                qtd: "125g",
+                qtd: "125g de",
                 nome: "açúcar",
             }
         ],
@@ -61,11 +61,11 @@ const receitas = [
         titulo: "Brigadeiro",
         ingredientes: [
             {
-                qtd: "1 colher (sopa)",
+                qtd: "1 colher (sopa) de",
                 nome: "manteiga sem sal",
             },
             {
-                qtd: "1 lata",
+                qtd: "1 lata de",
                 nome: "leite condensado",
             },
             {
@@ -73,7 +73,7 @@ const receitas = [
                 nome: "gema de ovo peneirada",
             },
             {
-                qtd: "1 colher (sopa)",
+                qtd: "1 colher (sopa) de",
                 nome: "chocolate em pó peneirado",
             }
         ],
@@ -88,19 +88,19 @@ const receitas = [
         titulo: "Cookies",
         ingredientes: [
             {
-                qtd: "1/2 xícara",
+                qtd: "1/2 xícara de",
                 nome: "açúcar",
             },
             {
-                qtd: "3/4 xícara",
+                qtd: "3/4 xícara de",
                 nome: "açúcar mascavo",
             },
             {
-                qtd: "1 colher (chá)",
+                qtd: "1 colher (chá) de",
                 nome: "sal",
             },
             {
-                qtd: "1/2 xícara",
+                qtd: "1/2 xícara de",
                 nome: "manteiga",
             },
             {
@@ -108,23 +108,23 @@ const receitas = [
                 nome: "ovo",
             },
             {
-                qtd: "1 colher (chá)",
+                qtd: "1 colher (chá) de",
                 nome: "essência de baunilha",
             },
             {
-                qtd: "11/4 xícaras",
+                qtd: "4 xícaras e 3/4 de",
                 nome: "farinha de trigo",
             },
             {
-                qtd: "1/2 colher (chá)",
+                qtd: "1/2 colher (chá) de",
                 nome: "bicarbonato de sódio",
             },
             {
-                qtd: "110g",
+                qtd: "110g de",
                 nome: "chocolate meio amargo",
             },
             {
-                qtd: "110g",
+                qtd: "110g de",
                 nome: "chocolate ao leite",
             }
         ],
@@ -142,7 +142,7 @@ const receitas = [
         titulo: "Crepe suíço",
         ingredientes: [
             {
-                qtd: "500ml",
+                qtd: "500ml de",
                 nome: "leite",
             },
             {
@@ -150,23 +150,23 @@ const receitas = [
                 nome: "ovos",
             },
             {
-                qtd: "3 colheres (sopa)",
+                qtd: "3 colheres (sopa) de",
                 nome: "açúcar",
             },
             {
-                qtd: "2 colheres (sobremesa)",
+                qtd: "2 colheres (sobremesa) de",
                 nome: "sal",
             },
             {
-                qtd: "2 xícaras",
+                qtd: "2 xícaras de",
                 nome: "amido de milho",
             },
             {
-                qtd: "3 xícaras",
+                qtd: "3 xícaras de",
                 nome: "farinha de trigo",
             },
             {
-                qtd: "2 colheres (sobremesa)",
+                qtd: "2 colheres (sobremesa) de",
                 nome: "fermento em pó",
             }
         ],
@@ -182,15 +182,15 @@ const receitas = [
         titulo: "Crepioca",
         ingredientes: [
             {
-                qtd: "2 colheres (sopa)",
+                qtd: "2 colheres (sopa) de",
                 nome: "goma de tapioca",
             },
             {
-                qtd: "2 colheres (sopa)",
+                qtd: "2 colheres (sopa) de",
                 nome: "queijo parmesão ralado",
             },
             {
-                qtd: "1 pitada",
+                qtd: "1 pitada de",
                 nome: "sal",
             },
             {
@@ -300,11 +300,11 @@ const receitas = [
         titulo: "Torta de Limão",
         ingredientes: [
             {
-                qtd: "300g",
+                qtd: "300g de",
                 nome: "biscoito de maisena",
             },
             {
-                qtd: "100g",
+                qtd: "100g de",
                 nome: "manteiga",
             },
             {
@@ -316,7 +316,7 @@ const receitas = [
                 nome: "limões grandes",
             },
             {
-                qtd: "100ml",
+                qtd: "100ml de",
                 nome: "creme de leite",
             }
         ],
@@ -340,48 +340,48 @@ const receitas = [
                 nome: "ovos",
             },
             {
-                qtd: "1/2 xícara (chá)",
+                qtd: "1/2 xícara (chá) de",
                 nome: "óleo",
             },
             {
-                qtd: "3 xícaras (chá)",
+                qtd: "3 xícaras (chá) de",
                 nome: "farinha de trigo",
             },
             {
-                qtd: "1 xícara 1/2 (chá)",
+                qtd: "1 xícara 1/2 (chá) de",
                 nome: "leite",
             },
             {
-                qtd: "À gosto",
+                qtd: "À gosto:",
                 nome: "sal",
             },
             {
-                qtd: "1 colher (sopa)",
+                qtd: "1 colher (sopa) de",
                 nome: "fermento em pó",
             },
             {
-                qtd: "1 xícara (chá)",
-                nome: "presunto picado*",
+                qtd: "1 xícara (chá) de",
+                nome: "presunto picado (opicional)",
             },
             {
-                qtd: "1",
-                nome: "linguiça calabresa cortada em rodelas*",
-            },
-            {
-                qtd: "Á gosto:",
-                nome: "rodelas de tomates*",
-            },
-            {
-                qtd: "3 xícaras (chá)",
-                nome: "muçarela ralada*",
+                qtd: "1 gomo de",
+                nome: "linguiça calabresa cortada em rodelas (opicional)",
             },
             {
                 qtd: "Á gosto:",
-                nome: "azeitonas verdes*",
+                nome: "rodelas de tomates (opicional)",
+            },
+            {
+                qtd: "3 xícaras (chá) de",
+                nome: "muçarela ralada (opicional)",
             },
             {
                 qtd: "Á gosto:",
-                nome: "orégano*",
+                nome: "azeitonas verdes (opicional)*",
+            },
+            {
+                qtd: "Á gosto:",
+                nome: "orégano (opicional)",
             }
         ],
         preparo: [
