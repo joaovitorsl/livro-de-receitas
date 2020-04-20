@@ -361,38 +361,38 @@ const receitas = [
             },
             {
                 qtd: "1 xícara (chá)",
-                nome: "presunto picado (recheio)",
+                nome: "presunto picado*",
             },
             {
                 qtd: "1",
-                nome: "linguiça calabresa cortada em rodelas (recheio)",
+                nome: "linguiça calabresa cortada em rodelas*",
             },
             {
                 qtd: "Á gosto:",
-                nome: "rodelas de tomates (recheio)",
+                nome: "rodelas de tomates*",
             },
             {
                 qtd: "3 xícaras (chá)",
-                nome: "muçarela ralada (recheio)",
+                nome: "muçarela ralada*",
             },
             {
                 qtd: "Á gosto:",
-                nome: "azeitonas verdes",
+                nome: "azeitonas verdes*",
             },
             {
                 qtd: "Á gosto:",
-                nome: "orégano",
+                nome: "orégano*",
             }
         ],
         preparo: [
-            "Triture o biscoito no liquidificador ou processador;",
-            "Derreta a manteira e jogue por cima do biscoito e misture;",
-            "Pegue uma forma de fundo removível e acomode bem a massa no centro e nas laterais;",
-            "Asse em forno pré-aquecido à 180°C por 8 minutos e espere esfriar;",
-            "Bata no liquidificador por 4 minutos o leite condensado e o suco do limão;",
-            "Coloque o mousse por cima da base da torta já fria;",
-            "Se quiser pode bater o creme de leite fresco em ponto de chantilly e decorar. Se não, só decore com raspas de limão;",
-            "Deixe gelar por 1 hora."
+            "Bata por 2 minutos os ovos, o óleo, o leite e metade da farinha de trigo no liquidificador",
+            "Transfira uma tigela e adicione o restante da farinha de trigo e o sal. Misture;",
+            "Acrescente o fermento em pó e misture novamente;",
+            "Em uma forma untada (com manteiga e farinha) despeje metade da massa;",
+            "Recheie como quiser, sugestões: adicione o presunto, metade da calabresa, metade da tomate e metade da muçarela, nesta ordem;",
+            "Despeje o restante da massa;",
+            "Recheie novamente como quiser, sugestões: adicione o restante da muçarela, calabresa, tomate, azeitona e órégano;",
+            "Coloque em forno pré-aquecido à 180°C por 40 minutos."
         ],
         foto: tortapizza,
         url: "https://youtu.be/ACLmjTWRz2w"
