@@ -198,15 +198,15 @@ const receitas = [
                 nome: "ovo",
             },
             {
-                qtd: "À gosto:",
+                qtd: "A gosto:",
                 nome: "orégano ",
             },
             {
-                qtd: "À gosto",
+                qtd: "A gosto",
                 nome: "sal",
             },
             {
-                qtd: "À gosto:",
+                qtd: "A gosto:",
                 nome: "pimenta do reino",
             }
         ],
@@ -348,11 +348,11 @@ const receitas = [
                 nome: "farinha de trigo",
             },
             {
-                qtd: "1 xícara 1/2 (chá) de",
+                qtd: "1 xícara e 1/2 (chá) de",
                 nome: "leite",
             },
             {
-                qtd: "À gosto:",
+                qtd: "A gosto:",
                 nome: "sal",
             },
             {
@@ -368,7 +368,7 @@ const receitas = [
                 nome: "linguiça calabresa cortada em rodelas (opicional)",
             },
             {
-                qtd: "Á gosto:",
+                qtd: "A gosto:",
                 nome: "rodelas de tomates (opicional)",
             },
             {
@@ -376,11 +376,11 @@ const receitas = [
                 nome: "muçarela ralada (opicional)",
             },
             {
-                qtd: "Á gosto:",
-                nome: "azeitonas verdes (opicional)*",
+                qtd: "A gosto:",
+                nome: "azeitonas verdes (opicional)",
             },
             {
-                qtd: "Á gosto:",
+                qtd: "A gosto:",
                 nome: "orégano (opicional)",
             }
         ],
