@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "61fb51c68603c14703cbac65cf7fe56d",
+    "revision": "2bd36040d9c83de835515e735df11715",
     "url": "/livro/index.html"
   },
   {
-    "revision": "06c74440052d87e0e765",
+    "revision": "64ebccdc8da948d91d5f",
     "url": "/livro/static/css/2.de424728.chunk.css"
   },
   {
-    "revision": "ccad2a03df65be5f9475",
+    "revision": "ab3243dc1df899c6db1d",
     "url": "/livro/static/css/main.b141040f.chunk.css"
   },
   {
-    "revision": "06c74440052d87e0e765",
-    "url": "/livro/static/js/2.0d91787d.chunk.js"
+    "revision": "64ebccdc8da948d91d5f",
+    "url": "/livro/static/js/2.bedcd186.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/livro/static/js/2.0d91787d.chunk.js.LICENSE.txt"
+    "url": "/livro/static/js/2.bedcd186.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "ccad2a03df65be5f9475",
-    "url": "/livro/static/js/main.b4644fe5.chunk.js"
+    "revision": "ab3243dc1df899c6db1d",
+    "url": "/livro/static/js/main.afd95dca.chunk.js"
   },
   {
     "revision": "7c7435fab27ae7e94091",
