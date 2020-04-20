@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "88bed9c64fa5beb81436ba9be9da2b54",
+    "revision": "2b60ad8ba91101efbe98af23419f3275",
     "url": "/livro-de-receitas/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/livro-de-receitas/static/css/2.de424728.chunk.css"
   },
   {
-    "revision": "15a146fb8c122f696fe9",
+    "revision": "d4aa92804521f12ec0c5",
     "url": "/livro-de-receitas/static/css/main.c9c3ab05.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/livro-de-receitas/static/js/2.bedcd186.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "15a146fb8c122f696fe9",
-    "url": "/livro-de-receitas/static/js/main.d8e9dd94.chunk.js"
+    "revision": "d4aa92804521f12ec0c5",
+    "url": "/livro-de-receitas/static/js/main.7373b6ef.chunk.js"
   },
   {
     "revision": "213f769c1dbeb594b779",

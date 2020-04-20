@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/livro-de-receitas/static/css/main.c9c3ab05.chunk.css",
-    "main.js": "/livro-de-receitas/static/js/main.d8e9dd94.chunk.js",
-    "main.js.map": "/livro-de-receitas/static/js/main.d8e9dd94.chunk.js.map",
+    "main.js": "/livro-de-receitas/static/js/main.7373b6ef.chunk.js",
+    "main.js.map": "/livro-de-receitas/static/js/main.7373b6ef.chunk.js.map",
     "runtime-main.js": "/livro-de-receitas/static/js/runtime-main.4fe92938.js",
     "runtime-main.js.map": "/livro-de-receitas/static/js/runtime-main.4fe92938.js.map",
     "static/css/2.de424728.chunk.css": "/livro-de-receitas/static/css/2.de424728.chunk.css",
     "static/js/2.bedcd186.chunk.js": "/livro-de-receitas/static/js/2.bedcd186.chunk.js",
     "static/js/2.bedcd186.chunk.js.map": "/livro-de-receitas/static/js/2.bedcd186.chunk.js.map",
     "index.html": "/livro-de-receitas/index.html",
-    "precache-manifest.da68b847e5997983714477366436954d.js": "/livro-de-receitas/precache-manifest.da68b847e5997983714477366436954d.js",
+    "precache-manifest.598d1d03595b4171a18f5b63514688f7.js": "/livro-de-receitas/precache-manifest.598d1d03595b4171a18f5b63514688f7.js",
     "service-worker.js": "/livro-de-receitas/service-worker.js",
     "static/css/2.de424728.chunk.css.map": "/livro-de-receitas/static/css/2.de424728.chunk.css.map",
     "static/css/main.c9c3ab05.chunk.css.map": "/livro-de-receitas/static/css/main.c9c3ab05.chunk.css.map",
@@ -30,6 +30,6 @@
     "static/css/2.de424728.chunk.css",
     "static/js/2.bedcd186.chunk.js",
     "static/css/main.c9c3ab05.chunk.css",
-    "static/js/main.d8e9dd94.chunk.js"
+    "static/js/main.7373b6ef.chunk.js"
   ]
 }
