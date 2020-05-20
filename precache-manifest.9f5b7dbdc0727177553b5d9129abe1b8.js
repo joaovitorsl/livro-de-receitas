@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2b60ad8ba91101efbe98af23419f3275",
+    "revision": "2d64e127e04c473a80cd4b5176f4bcfd",
     "url": "/livro-de-receitas/index.html"
   },
   {
-    "revision": "64ebccdc8da948d91d5f",
+    "revision": "53f2c246aed09a7b05aa",
     "url": "/livro-de-receitas/static/css/2.de424728.chunk.css"
   },
   {
-    "revision": "d4aa92804521f12ec0c5",
+    "revision": "159c2c2116f3f1ff73bc",
     "url": "/livro-de-receitas/static/css/main.c9c3ab05.chunk.css"
   },
   {
-    "revision": "64ebccdc8da948d91d5f",
-    "url": "/livro-de-receitas/static/js/2.bedcd186.chunk.js"
+    "revision": "53f2c246aed09a7b05aa",
+    "url": "/livro-de-receitas/static/js/2.956ae297.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/livro-de-receitas/static/js/2.bedcd186.chunk.js.LICENSE.txt"
+    "url": "/livro-de-receitas/static/js/2.956ae297.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d4aa92804521f12ec0c5",
-    "url": "/livro-de-receitas/static/js/main.7373b6ef.chunk.js"
+    "revision": "159c2c2116f3f1ff73bc",
+    "url": "/livro-de-receitas/static/js/main.cbd9b772.chunk.js"
   },
   {
     "revision": "213f769c1dbeb594b779",
@@ -30,6 +30,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "0be892e1b7ed02fc76a2a34af02c6928",
     "url": "/livro-de-receitas/static/media/background.0be892e1.png"
+  },
+  {
+    "revision": "628176f4bfc5fc69863ec8c140675d2a",
+    "url": "/livro-de-receitas/static/media/bolinho-de-chuva.628176f4.jpg"
   },
   {
     "revision": "39e2e805bd0687b448a8b3bf7d00e4f6",
@@ -52,12 +56,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/livro-de-receitas/static/media/crepioca.47c26dec.png"
   },
   {
+    "revision": "007942f9359988e3db01545423893dee",
+    "url": "/livro-de-receitas/static/media/empadao.007942f9.jpg"
+  },
+  {
     "revision": "ecc3a368f5da5881962701e9b2bb3bf6",
     "url": "/livro-de-receitas/static/media/favicon.ecc3a368.png"
   },
   {
     "revision": "0eea3a50a77ffc1ee7eca626b7428b1a",
     "url": "/livro-de-receitas/static/media/lasanha-joao.0eea3a50.png"
+  },
+  {
+    "revision": "16a10ff03bb4f987f60f926742d91573",
+    "url": "/livro-de-receitas/static/media/pudim.16a10ff0.jpg"
   },
   {
     "revision": "9b546033e21e651fe050d73bfd710e57",
