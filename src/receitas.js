@@ -6,9 +6,57 @@ import brigadeiro from './images/brigadeiro.png'
 import cookie from './images/cookie-renan.png'
 import lasanha from './images/lasanha-joao.png'
 import tortapizza from './images/tortapizza.jpg'
+import bolinhodechuva from './images/bolinho-de-chuva.jpg'
+import empadao from './images/empadao.jpg'
+import pudim from './images/pudim.jpg'
 
 const receitas = [
     {
+        titulo: "Bolinho de chuva",
+        ingredientes: [
+            {
+                qtd: "3 xícaras de",
+                nome: "farinha de trigo",
+            },
+            {
+                qtd: "2 colheres (sopa) de",
+                nome: "açúcar",
+            },
+            {
+                qtd: "Uma pitada de",
+                nome: "sal",
+            },
+            {
+                qtd: "1 colher (sopa) de",
+                nome: "fermento químico em pó",
+            },
+            {
+                qtd: "2 colheres (sopa) de",
+                nome: "manteiga",
+            },
+            {
+                qtd: "",
+                nome: "Raspas da casca de 1 limão",
+            },
+            {
+                qtd: "1 xícara de",
+                nome: "leite",
+            },
+            {
+                qtd: "1",
+                nome: "ovo",
+            }
+        ],
+        preparo: [
+            "Em uma tigela grande, junte a farinha, o açúcar, o sal, o fermento, a manteiga e as raspas de limão. Misture bem;",
+            "Junte o ovo e o leite, aos poucos, mexendo sempre com uma colher de pau;",
+            "Deixe a massa descansar por 15 minutos;",
+            "Depois, pegue colheradas da massa e frite em óleo quente;",
+            "Escorra os bolinhos em papel-toalha e, em seguida, polvilhe-os com açúcar e canela.",
+        ],
+        foto: bolinhodechuva,
+        url: "https://vovopalmirinha.com.br/bolinho-de-chuva/"
+    },{
         titulo: "Bolo de Sorvete",
         ingredientes: [
             {
@@ -112,7 +160,7 @@ const receitas = [
                 nome: "essência de baunilha",
             },
             {
-                qtd: "4 xícaras e 3/4 de",
+                qtd: "4 e 3/4 de xícara de",
                 nome: "farinha de trigo",
             },
             {
@@ -174,7 +222,7 @@ const receitas = [
             "Coloque os primeiros ingredientes (líquidos, sal e açúcar);",
             "Acrescente os demais ingredientes com exceção do fermento em pó;",
             "Após a massa ficar homogênea e no ponto, coloque o fermento em pó e bata por mais alguns segundos;",
-            "Agora é só colocar a massa na máquina de crepe com o recheio espetado e esperar por [falta ver o tempo];",
+            "Agora é só colocar a massa na máquina de crepe com o recheio espetado e esperar por 10 minutos;",
             "OBS: NÃO abra a máquina antes do tempo para não murchar."
         ],
         foto: crepe,
@@ -228,6 +276,122 @@ const receitas = [
         
         ],
         foto: semFoto,
+    },*/{
+        titulo: "Empadão de Frango",
+        ingredientes: [
+            {
+                qtd: "3 e 1/2 de xícara de",
+                nome: "farinha de trigo",
+            },{
+                qtd: "250g de",
+                nome: "margarina",
+            },{
+                qtd: "1/2 xícara de",
+                nome: "água",
+            },{
+                qtd: "2",
+                nome: "ovos",
+            },{
+                qtd: "A gosto:",
+                nome: "sal",
+            },{
+                qtd: "1kg de",
+                nome: "peito de frango cozido e desfiado",
+            },{
+                qtd: "300ml de",
+                nome: "água do cozimento do frango",
+            },{
+                qtd: "1/2 lata de",
+                nome: "milho",
+            },{
+                qtd: "1/2 lata de",
+                nome: "ervilha",
+            },{
+                qtd: "1",
+                nome: "tomate picado",
+            },{
+                qtd: "3/4 de xícara de",
+                nome: "molho de tomate",
+            },{
+                qtd: "1 copo de",
+                nome: "requeijão",
+            },{
+                qtd: "1",
+                nome: "cebola picada",
+            },{
+                qtd: "A gosto:",
+                nome: "azeitona",
+            },{
+                qtd: "2 dentes de",
+                nome: "alho",
+            },{
+                qtd: "A gosto:",
+                nome: "salsinha e cebolinha",
+            }
+        ],
+        preparo: [
+            "."
+        ],
+        foto: empadao,
+        url: "https://youtu.be/F2npcDqkY5g"
+    },/*{
+        titulo: "Massa de Pizza",
+        ingredientes: [
+            {
+                qtd: "3 e 1/2 de xícara de",
+                nome: "farinha de trigo",
+            },{
+                qtd: "250g de",
+                nome: "margarina",
+            },{
+                qtd: "1/2 xícara de",
+                nome: "água",
+            },{
+                qtd: "2",
+                nome: "ovos",
+            },{
+                qtd: "A gosto:",
+                nome: "sal",
+            },{
+                qtd: "1kg de",
+                nome: "peito de frango cozido e desfiado",
+            },{
+                qtd: "300ml de",
+                nome: "água do cozimento do frango",
+            },{
+                qtd: "1/2 lata de",
+                nome: "milho",
+            },{
+                qtd: "1/2 lata de",
+                nome: "ervilha",
+            },{
+                qtd: "1",
+                nome: "tomate picado",
+            },{
+                qtd: "3/4 de xícara de",
+                nome: "molho de tomate",
+            },{
+                qtd: "1 copo de",
+                nome: "requeijão",
+            },{
+                qtd: "1",
+                nome: "cebola picada",
+            },{
+                qtd: "A gosto:",
+                nome: "azeitona",
+            },{
+                qtd: "2 dentes de",
+                nome: "alho",
+            },{
+                qtd: "A gosto:",
+                nome: "salsinha e cebolinha",
+            }
+        ],
+        preparo: [
+            "."
+        ],
+        foto: empadao,
+        url: "https://youtu.be/F2npcDqkY5g"
     },{
         titulo: "[EM BREVE] Hamburguer artesanal do Renan",
         ingredientes: [
@@ -333,6 +497,37 @@ const receitas = [
         foto: torta,
         url: "https://www.instagram.com/p/B4iGEumglxo/"
     },{
+        titulo: "Pudim de Leite",
+        ingredientes: [
+            {
+                qtd: "1 xícara (chá) de",
+                nome: "açúcar",
+            },
+            {
+                qtd: "1 lata de",
+                nome: "leite condesado",
+            },
+            {
+                qtd: "2 medidas (da lata) de",
+                nome: "leite",
+            },
+            {
+                qtd: "3",
+                nome: "ovos",
+            }
+        ],
+        preparo: [
+            "Em uma panela de fundo largo, derreta o açúcar até ficar dourado;",
+            "Junte meia xícara (chá) de água quente e mexa com uma colher;",
+            "Deixe ferver até dissolver os torrões de açúcar e a calda engrossar;",
+            "Forre com a calda uma forma com furo central (19 cm de diâmetro) e reserve.",
+            "Em um liquidificador, bata todos os ingredientes do pudim e despeje na forma reservada;",
+            "Cubra com papel-alumínio e leve ao forno médio (180°C), em banho-maria, por cerca de 1 hora e 30 minutos;",
+            "Depois de frio, leve para gelar por cerca de 6 horas. Desenforme e sirva a seguir."
+        ],
+        foto: pudim,
+        url: "https://www.receitasnestle.com.br/receitas/pudim-de-leite-moca"
+    },{
         titulo: "Torta-pizza",
         ingredientes: [
             {
@@ -348,7 +543,7 @@ const receitas = [
                 nome: "farinha de trigo",
             },
             {
-                qtd: "1 xícara e 1/2 (chá) de",
+                qtd: "1 e 1/2 de xícara (chá) de",
                 nome: "leite",
             },
             {
