@@ -9,6 +9,7 @@ import tortapizza from './images/tortapizza.jpg'
 import bolinhodechuva from './images/bolinho-de-chuva.jpg'
 import empadao from './images/empadao.jpg'
 import pudim from './images/pudim.jpg'
+import massa from './images/massa.jpg'
 
 const receitas = [
     {
@@ -330,69 +331,61 @@ const receitas = [
             }
         ],
         preparo: [
-            "."
-        ],
-        foto: empadao,
-        url: "https://youtu.be/F2npcDqkY5g"
-    },/*{
-        titulo: "Massa de Pizza",
-        ingredientes: [
-            {
-                qtd: "3 e 1/2 de xícara de",
-                nome: "farinha de trigo",
-            },{
-                qtd: "250g de",
-                nome: "margarina",
-            },{
-                qtd: "1/2 xícara de",
-                nome: "água",
-            },{
-                qtd: "2",
-                nome: "ovos",
-            },{
-                qtd: "A gosto:",
-                nome: "sal",
-            },{
-                qtd: "1kg de",
-                nome: "peito de frango cozido e desfiado",
-            },{
-                qtd: "300ml de",
-                nome: "água do cozimento do frango",
-            },{
-                qtd: "1/2 lata de",
-                nome: "milho",
-            },{
-                qtd: "1/2 lata de",
-                nome: "ervilha",
-            },{
-                qtd: "1",
-                nome: "tomate picado",
-            },{
-                qtd: "3/4 de xícara de",
-                nome: "molho de tomate",
-            },{
-                qtd: "1 copo de",
-                nome: "requeijão",
-            },{
-                qtd: "1",
-                nome: "cebola picada",
-            },{
-                qtd: "A gosto:",
-                nome: "azeitona",
-            },{
-                qtd: "2 dentes de",
-                nome: "alho",
-            },{
-                qtd: "A gosto:",
-                nome: "salsinha e cebolinha",
-            }
-        ],
-        preparo: [
-            "."
+            "Cozinhe o frango (recomendação: colorau, açafrão e sal), reserve a água do cozimento (aproximadamente 300ml) e desfie o frango;",
+            "Coloque um fio de azeite em uma frigideira pré-aquecida e adicione a cebola até começar a fritar. Acrescente o alho até começar a fritar e acresente a tomate picada e mexa;",
+            "Quando o tomate começar a derreter, acrescente um pouco de molho de tomate, azeitona e o frango, mexa novamente;",
+            "Acrescente um pouco da água do cozimento, milho e ervilha, o restante da água do cozimento, o requeijão, mexa novamente e adicione o restante do molho de tomate;",
+            "Depois de misturado, acrescente a cebolinha, misture novamente.",
+
+            "Em uma bacia acrescente a farinha de trigo, margarina, ovos, sal e misture com as pontas dos dedos para não sovar;",
+            "Se a massa ficar firme, dê o ponto com água. (A massa deve se quebrar e não formar uma liga);",
+            "Em uma forma de fundo removível e 20cm de diâmetro, preencha o fundo e as laterais com massa e acrescente o recheio;",
+            "Faça uma camada no topo com requeijão e queijo;",
+            "Em um papel filme estique a massa restante do tamanho da boca da forma e cubra o recheio;",
+            "Pincele com manteiga e se quiser decorar: faça xadrez com um garfo;",
+            "Pré-aqueça o forno a 180°C e deixe o empadão assando por 40 minutos."
+
         ],
         foto: empadao,
         url: "https://youtu.be/F2npcDqkY5g"
     },{
+        titulo: "Massa de Pizza",
+        ingredientes: [
+            {
+                qtd: "1 e 1/2 xícara (chá) ou 360ml de",
+                nome: "água morna",
+            },{
+                qtd: "1 colher (sopa) de",
+                nome: "açúcar",
+            },{
+                qtd: "1 colher (sopa) de",
+                nome: "fermento biológico seco",
+            },{
+                qtd: "1/4 de xícara ou 60ml de",
+                nome: "óleo ou azeite",
+            },{
+                qtd: "1 colher (chá) (a gosto) de",
+                nome: "sal",
+            },{
+                qtd: "3 xícaras e 1/4 ou 390g de",
+                nome: "farinha de trigo sem fermento",
+            }
+        ],
+        preparo: [
+            "Em um pote coloque a água morna, açúcar e o fermento. Misture, tampe e reserve por 10 minutos;",
+            "Passado os 10 minutos coloque a mistura em uma tigela e acrescente o óleo (ou azeite);",
+            "Coloque a farinha de trigo as poucos (recomendação: 2 xícaras de farinha de trigo, misture, sal, misture);",
+            "Coloque um pouco de farinha em uma bancada e comece a sovar a massa;",
+            "Sove a massa por 10 minutos, sempre acrescentando farinha aos poucos;",
+            "Obs: Se a massa ficar seca acrescente um pouco de azeite ou óleo, se necessário pode colocar mais farinha do que listado nos ingredientes;",
+            "Jogue um pouco de farinha embaixo e por cima da massa e deixe descansando por 30-40 minutos;",
+            "Divida a massa em 2 e espalhe a massa com um rolo;",
+            "Coloque uma colher de óleo na forma de pizza, espalhe em toda a assadeira, coloque a massa de pizza e recheie a gosto;",
+            "Leve ao forno pré-aquecido a 200°C por cerca de 20min, se preferir uma pizza mais dourada, deixe por um pouco mais de tempo."
+        ],
+        foto: massa,
+        url: "https://youtu.be/vmnADSGHml0"
+    },/*{
         titulo: "[EM BREVE] Hamburguer artesanal do Renan",
         ingredientes: [
             {
