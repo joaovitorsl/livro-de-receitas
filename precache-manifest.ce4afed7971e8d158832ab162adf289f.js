@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2d64e127e04c473a80cd4b5176f4bcfd",
+    "revision": "eea5cb007775cb03b3747f402b9d3cf9",
     "url": "/livro-de-receitas/index.html"
   },
   {
-    "revision": "53f2c246aed09a7b05aa",
+    "revision": "3b3a515c30d31416ab43",
     "url": "/livro-de-receitas/static/css/2.de424728.chunk.css"
   },
   {
-    "revision": "159c2c2116f3f1ff73bc",
+    "revision": "6145d5e4f0709643afff",
     "url": "/livro-de-receitas/static/css/main.c9c3ab05.chunk.css"
   },
   {
-    "revision": "53f2c246aed09a7b05aa",
-    "url": "/livro-de-receitas/static/js/2.956ae297.chunk.js"
+    "revision": "3b3a515c30d31416ab43",
+    "url": "/livro-de-receitas/static/js/2.b4f56772.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/livro-de-receitas/static/js/2.956ae297.chunk.js.LICENSE.txt"
+    "url": "/livro-de-receitas/static/js/2.b4f56772.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "159c2c2116f3f1ff73bc",
-    "url": "/livro-de-receitas/static/js/main.cbd9b772.chunk.js"
+    "revision": "6145d5e4f0709643afff",
+    "url": "/livro-de-receitas/static/js/main.62275b3e.chunk.js"
   },
   {
     "revision": "213f769c1dbeb594b779",
@@ -66,6 +66,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "0eea3a50a77ffc1ee7eca626b7428b1a",
     "url": "/livro-de-receitas/static/media/lasanha-joao.0eea3a50.png"
+  },
+  {
+    "revision": "ec0c057a300f33719736a3ba95330696",
+    "url": "/livro-de-receitas/static/media/massa.ec0c057a.jpg"
   },
   {
     "revision": "16a10ff03bb4f987f60f926742d91573",
