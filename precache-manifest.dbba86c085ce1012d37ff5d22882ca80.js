@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "eea5cb007775cb03b3747f402b9d3cf9",
+    "revision": "cc8de419d3d14b84c7123ebd82749a98",
     "url": "/livro-de-receitas/index.html"
   },
   {
-    "revision": "3b3a515c30d31416ab43",
+    "revision": "048ad270989c2ebf4942",
     "url": "/livro-de-receitas/static/css/2.de424728.chunk.css"
   },
   {
-    "revision": "6145d5e4f0709643afff",
+    "revision": "6d820af65b162fb7a5b3",
     "url": "/livro-de-receitas/static/css/main.c9c3ab05.chunk.css"
   },
   {
-    "revision": "3b3a515c30d31416ab43",
-    "url": "/livro-de-receitas/static/js/2.b4f56772.chunk.js"
+    "revision": "048ad270989c2ebf4942",
+    "url": "/livro-de-receitas/static/js/2.7a0d63be.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/livro-de-receitas/static/js/2.b4f56772.chunk.js.LICENSE.txt"
+    "url": "/livro-de-receitas/static/js/2.7a0d63be.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "6145d5e4f0709643afff",
-    "url": "/livro-de-receitas/static/js/main.62275b3e.chunk.js"
+    "revision": "6d820af65b162fb7a5b3",
+    "url": "/livro-de-receitas/static/js/main.31655766.chunk.js"
   },
   {
     "revision": "213f769c1dbeb594b779",
@@ -36,12 +36,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/livro-de-receitas/static/media/bolinho-de-chuva.628176f4.jpg"
   },
   {
+    "revision": "a5ab188d0dded4d5db3b21b6f47a6f35",
+    "url": "/livro-de-receitas/static/media/bolo-de-limao-joao.a5ab188d.jpg"
+  },
+  {
     "revision": "39e2e805bd0687b448a8b3bf7d00e4f6",
     "url": "/livro-de-receitas/static/media/bolosorvete.39e2e805.png"
   },
   {
     "revision": "2ac571d1351206dcb119dc746fbe6b82",
     "url": "/livro-de-receitas/static/media/brigadeiro.2ac571d1.png"
+  },
+  {
+    "revision": "ce2bcdfb930a06107db56d271166d5dd",
+    "url": "/livro-de-receitas/static/media/brownie.ce2bcdfb.jpg"
   },
   {
     "revision": "c5d42cc5183dab490d4a6ae843cf84ca",

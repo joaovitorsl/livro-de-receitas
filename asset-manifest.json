@@ -1,23 +1,25 @@
 {
   "files": {
     "main.css": "/livro-de-receitas/static/css/main.c9c3ab05.chunk.css",
-    "main.js": "/livro-de-receitas/static/js/main.62275b3e.chunk.js",
-    "main.js.map": "/livro-de-receitas/static/js/main.62275b3e.chunk.js.map",
+    "main.js": "/livro-de-receitas/static/js/main.31655766.chunk.js",
+    "main.js.map": "/livro-de-receitas/static/js/main.31655766.chunk.js.map",
     "runtime-main.js": "/livro-de-receitas/static/js/runtime-main.4fe92938.js",
     "runtime-main.js.map": "/livro-de-receitas/static/js/runtime-main.4fe92938.js.map",
     "static/css/2.de424728.chunk.css": "/livro-de-receitas/static/css/2.de424728.chunk.css",
-    "static/js/2.b4f56772.chunk.js": "/livro-de-receitas/static/js/2.b4f56772.chunk.js",
-    "static/js/2.b4f56772.chunk.js.map": "/livro-de-receitas/static/js/2.b4f56772.chunk.js.map",
+    "static/js/2.7a0d63be.chunk.js": "/livro-de-receitas/static/js/2.7a0d63be.chunk.js",
+    "static/js/2.7a0d63be.chunk.js.map": "/livro-de-receitas/static/js/2.7a0d63be.chunk.js.map",
     "index.html": "/livro-de-receitas/index.html",
-    "precache-manifest.ce4afed7971e8d158832ab162adf289f.js": "/livro-de-receitas/precache-manifest.ce4afed7971e8d158832ab162adf289f.js",
+    "precache-manifest.dbba86c085ce1012d37ff5d22882ca80.js": "/livro-de-receitas/precache-manifest.dbba86c085ce1012d37ff5d22882ca80.js",
     "service-worker.js": "/livro-de-receitas/service-worker.js",
     "static/css/2.de424728.chunk.css.map": "/livro-de-receitas/static/css/2.de424728.chunk.css.map",
     "static/css/main.c9c3ab05.chunk.css.map": "/livro-de-receitas/static/css/main.c9c3ab05.chunk.css.map",
-    "static/js/2.b4f56772.chunk.js.LICENSE.txt": "/livro-de-receitas/static/js/2.b4f56772.chunk.js.LICENSE.txt",
+    "static/js/2.7a0d63be.chunk.js.LICENSE.txt": "/livro-de-receitas/static/js/2.7a0d63be.chunk.js.LICENSE.txt",
     "static/media/main.css": "/livro-de-receitas/static/media/background.0be892e1.png",
     "static/media/bolinho-de-chuva.jpg": "/livro-de-receitas/static/media/bolinho-de-chuva.628176f4.jpg",
+    "static/media/bolo-de-limao-joao.jpg": "/livro-de-receitas/static/media/bolo-de-limao-joao.a5ab188d.jpg",
     "static/media/bolosorvete.png": "/livro-de-receitas/static/media/bolosorvete.39e2e805.png",
     "static/media/brigadeiro.png": "/livro-de-receitas/static/media/brigadeiro.2ac571d1.png",
+    "static/media/brownie.jpg": "/livro-de-receitas/static/media/brownie.ce2bcdfb.jpg",
     "static/media/cookie-renan.png": "/livro-de-receitas/static/media/cookie-renan.c5d42cc5.png",
     "static/media/crepe.png": "/livro-de-receitas/static/media/crepe.26b4c393.png",
     "static/media/crepioca.png": "/livro-de-receitas/static/media/crepioca.47c26dec.png",
@@ -32,8 +34,8 @@
   "entrypoints": [
     "static/js/runtime-main.4fe92938.js",
     "static/css/2.de424728.chunk.css",
-    "static/js/2.b4f56772.chunk.js",
+    "static/js/2.7a0d63be.chunk.js",
     "static/css/main.c9c3ab05.chunk.css",
-    "static/js/main.62275b3e.chunk.js"
+    "static/js/main.31655766.chunk.js"
   ]
 }
