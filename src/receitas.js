@@ -10,6 +10,8 @@ import bolinhodechuva from './images/bolinho-de-chuva.jpg'
 import empadao from './images/empadao.jpg'
 import pudim from './images/pudim.jpg'
 import massa from './images/massa.jpg'
+import bololimaojoao from './images/bolo-de-limao-joao.jpg'
+import brownie from './images/brownie.jpg'
 
 const receitas = [
     {
@@ -57,6 +59,63 @@ const receitas = [
         ],
         foto: bolinhodechuva,
         url: "https://vovopalmirinha.com.br/bolinho-de-chuva/"
+    },{
+        titulo: "Bolo de Limão",
+        ingredientes: [
+            {
+                qtd: "5",
+                nome: "ovos",
+            },
+            {
+                qtd: "2 xícaras (chá) de",
+                nome: "açúcar",
+            },
+            {
+                qtd: "4 colheres (sopa) de",
+                nome: "óleo",
+            },
+            {
+                qtd: "1 pote de",
+                nome: "Iogurte NESTLÉ Mel Integral 170g",
+            },
+            {
+                qtd: "raspas da casca de 1",
+                nome: "limão",
+            },
+            {
+                qtd: "suco de 1",
+                nome: "limão",
+            },
+            {
+                qtd: "2 e 1/2 xícaras (chá) de",
+                nome: "farinha de trigo",
+            },
+            {
+                qtd: "1 colher (sopa) de",
+                nome: "fermento em pó",
+            },
+            {
+                qtd: "3 colheres (sopa) de",
+                nome: "suco de limão",
+            },
+            {
+                qtd: "1 lata de",
+                nome: "Moça® De Colher",
+            },
+            {
+                qtd: "1 xícara (chá) de",
+                nome: "1 xícara (chá) de frutas secas picadas (damasco, ameixa, nozes e pistache)",
+            }
+        ],
+        preparo: [
+            "Em uma batedeira, bata os ovos e o açúcar até ficar uma mistura fofa e esbranquiçada;",
+            "Desligue a batedeira e junte o óleo, o Iogurte NESTLÉ, as raspas e o suco de limão, meia xícara (chá) de água e a farinha de trigo;",
+            "Misture o fermento em pó e despeje a mistura em uma forma redonda (28 cm de diâmetro) untada com óleo e polvilhada com farinha de trigo;",
+            "Leve ao forno médio-alto (200°C), preaquecido, por cerca de 40 minutos ou até ficar dourado;",
+            "Em uma tigela, misture o suco de limão com meia xícara (chá) de água e regue a massa. Cubra o bolo com o Moça de Colher e coloque as frutas secas por cima. Leve à geladeira por cerca de 2 horas. Sirva.",
+        ],
+        foto: bololimaojoao,
+        url: "[ADAPTAÇÃO] https://www.receitasnestle.com.br/receitas/bolo-de-limao e https://www.receitasnestle.com.br/receitas/bolo-de-limao-siciliano"
     },{
         titulo: "Bolo de Sorvete",
         ingredientes: [
@@ -133,6 +192,41 @@ const receitas = [
         ],
         foto: brigadeiro,
         url: "https://gshow.globo.com/receitas-gshow/receitas/brigadeiro-do-william-bonner-55d8b48b4d388573c1000041.ghtml"
+    },{
+        titulo: "Brownie de achocolatado",
+        ingredientes: [
+            {
+                qtd: "2 xícaras de",
+                nome: "achocolatado",
+            },
+            {
+                qtd: "1 xícara de",
+                nome: "farinha de trigo",
+            },
+            {
+                qtd: "1 xícara de",
+                nome: "açúcar",
+            },
+            {
+                qtd: "4",
+                nome: "ovos",
+            },
+            {
+                qtd: "200g",
+                nome: "de manteiga",
+            }
+        ],
+        preparo: [
+            "Derreta a manteiga;",
+            "Misture os ovos e o açúcar até ficar um creme;",
+            "Acrescente a manteiga derretida;",
+            "O achocolatado, e misture bem;",
+            "Acrescente a farinha de trigo e misture;",
+            "Unte uma forma 20x30 com manteiga e nescau",
+            "Coloque em forno pré-aquecido a 180°C durante aproximadamente 40 minutos"
+        ],
+        foto: brownie,
+        url: "https://www.youtube.com/watch?v=Eoe3TYWSymw"
     },{
         titulo: "Cookies",
         ingredientes: [
@@ -386,7 +480,7 @@ const receitas = [
         foto: massa,
         url: "https://youtu.be/vmnADSGHml0"
     },/*{
-        titulo: "[EM BREVE] Hamburguer artesanal do Renan",
+        titulo: "[EM BREVE] Hamburguer artesanal",
         ingredientes: [
             {
                 qtd: "",
@@ -454,6 +548,37 @@ const receitas = [
         ],
         foto: lasanha,
     },{
+        titulo: "Pudim de Leite",
+        ingredientes: [
+            {
+                qtd: "1 xícara (chá) de",
+                nome: "açúcar",
+            },
+            {
+                qtd: "1 lata de",
+                nome: "leite condesado",
+            },
+            {
+                qtd: "2 medidas (da lata) de",
+                nome: "leite",
+            },
+            {
+                qtd: "3",
+                nome: "ovos",
+            }
+        ],
+        preparo: [
+            "Em uma panela de fundo largo, derreta o açúcar até ficar dourado;",
+            "Junte meia xícara (chá) de água quente e mexa com uma colher;",
+            "Deixe ferver até dissolver os torrões de açúcar e a calda engrossar;",
+            "Forre com a calda uma forma com furo central (19 cm de diâmetro) e reserve.",
+            "Em um liquidificador, bata todos os ingredientes do pudim e despeje na forma reservada;",
+            "Cubra com papel-alumínio e leve ao forno médio (180°C), em banho-maria, por cerca de 1 hora e 30 minutos;",
+            "Depois de frio, leve para gelar por cerca de 6 horas. Desenforme e sirva a seguir."
+        ],
+        foto: pudim,
+        url: "https://www.receitasnestle.com.br/receitas/pudim-de-leite-moca"
+    },{
         titulo: "Torta de Limão",
         ingredientes: [
             {
@@ -489,37 +614,6 @@ const receitas = [
         ],
         foto: torta,
         url: "https://www.instagram.com/p/B4iGEumglxo/"
-    },{
-        titulo: "Pudim de Leite",
-        ingredientes: [
-            {
-                qtd: "1 xícara (chá) de",
-                nome: "açúcar",
-            },
-            {
-                qtd: "1 lata de",
-                nome: "leite condesado",
-            },
-            {
-                qtd: "2 medidas (da lata) de",
-                nome: "leite",
-            },
-            {
-                qtd: "3",
-                nome: "ovos",
-            }
-        ],
-        preparo: [
-            "Em uma panela de fundo largo, derreta o açúcar até ficar dourado;",
-            "Junte meia xícara (chá) de água quente e mexa com uma colher;",
-            "Deixe ferver até dissolver os torrões de açúcar e a calda engrossar;",
-            "Forre com a calda uma forma com furo central (19 cm de diâmetro) e reserve.",
-            "Em um liquidificador, bata todos os ingredientes do pudim e despeje na forma reservada;",
-            "Cubra com papel-alumínio e leve ao forno médio (180°C), em banho-maria, por cerca de 1 hora e 30 minutos;",
-            "Depois de frio, leve para gelar por cerca de 6 horas. Desenforme e sirva a seguir."
-        ],
-        foto: pudim,
-        url: "https://www.receitasnestle.com.br/receitas/pudim-de-leite-moca"
     },{
         titulo: "Torta-pizza",
         ingredientes: [
