@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "cc8de419d3d14b84c7123ebd82749a98",
+    "revision": "0189dd9ac9ea3b2d801ed522b2124a11",
     "url": "/livro-de-receitas/index.html"
   },
   {
-    "revision": "048ad270989c2ebf4942",
-    "url": "/livro-de-receitas/static/css/2.de424728.chunk.css"
+    "revision": "dd7514888a27db63bc54",
+    "url": "/livro-de-receitas/static/css/2.5711c12b.chunk.css"
   },
   {
-    "revision": "6d820af65b162fb7a5b3",
-    "url": "/livro-de-receitas/static/css/main.c9c3ab05.chunk.css"
+    "revision": "d3965e00681517b8843f",
+    "url": "/livro-de-receitas/static/css/main.9a69dba5.chunk.css"
   },
   {
-    "revision": "048ad270989c2ebf4942",
-    "url": "/livro-de-receitas/static/js/2.7a0d63be.chunk.js"
+    "revision": "dd7514888a27db63bc54",
+    "url": "/livro-de-receitas/static/js/2.fe9d8b79.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/livro-de-receitas/static/js/2.7a0d63be.chunk.js.LICENSE.txt"
+    "url": "/livro-de-receitas/static/js/2.fe9d8b79.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "6d820af65b162fb7a5b3",
-    "url": "/livro-de-receitas/static/js/main.31655766.chunk.js"
+    "revision": "d3965e00681517b8843f",
+    "url": "/livro-de-receitas/static/js/main.b7644a41.chunk.js"
   },
   {
     "revision": "213f769c1dbeb594b779",
@@ -62,6 +62,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "47c26dec5cdef9763f937ff26d23e05b",
     "url": "/livro-de-receitas/static/media/crepioca.47c26dec.png"
+  },
+  {
+    "revision": "977866e19d04757987fbc3d05b3ce5fb",
+    "url": "/livro-de-receitas/static/media/crepioca2.977866e1.jpg"
   },
   {
     "revision": "007942f9359988e3db01545423893dee",
