@@ -8,7 +8,6 @@ import favicon from './images/favicon.png';
 import { HashRouter } from 'react-router-dom';
 
 import {
-  BrowserRouter as Router,
   Switch,
   Route,
   Link,
@@ -85,7 +84,7 @@ function Home() {
         <div id="header">
           <div id="header-content" style={{ display: 'flex', justifyContent: 'center', alignItems: 'center', marginTop: '4rem', marginBottom: '4rem' }}>
 
-            <img id="i" src={favicon} />
+            <img id="i" src={favicon} alt="Logo: fundo verde com chapéu branco sorrindo"/>
 
             <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'start', marginLeft: '2rem' }}>
               <span id="title">Livro de Receitas</span>
