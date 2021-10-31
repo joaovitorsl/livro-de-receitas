@@ -1,6 +1,7 @@
 import torta from './images/torta-joao.png'
 import boloSorvete from './images/bolosorvete.png'
 import crepioca from './images/crepioca.png'
+import crepioca2 from './images/crepioca2.jpg'
 import crepe from './images/crepe.png'
 import brigadeiro from './images/brigadeiro.png'
 import cookie from './images/cookie-renan.png'
@@ -322,6 +323,50 @@ const receitas = [
         ],
         foto: crepe,
     },{
+        titulo: "Crepe suíço 2",
+        ingredientes: [
+            {
+                qtd: "1 e 1/2 xícaras (chá) de",
+                nome: "leite",
+            },
+            {
+                qtd: "1",
+                nome: "ovo",
+            },
+            {
+                qtd: "1/2 colher (sobremesa) de",
+                nome: "sal",
+            },
+            {
+                qtd: "2 colheres (sopa) de",
+                nome: "amido de milho",
+            },
+            {
+                qtd: "2 xícaras (chá) de",
+                nome: "farinha de trigo",
+            },
+            {
+                qtd: "1 colher (café) de",
+                nome: "fermento em pó",
+            },
+            {
+                qtd: "1 colher (sopa) de",
+                nome: "manteiga",
+            },
+            {
+                qtd: "1 colher (sopa) de",
+                nome: "queijo ralado parmesão",
+            }
+        ],
+        preparo: [
+            "Coloque todos os ingredientes no liquidificador;",
+            "Após a massa ficar homogênea e no ponto;",
+            "Agora é só colocar a massa na máquina de crepe com o recheio espetado e esperar por 15 minutos;",
+            "OBS: NÃO abra a máquina antes do tempo para não murchar."
+        ],
+        foto: crepe,
+        url: "https://youtu.be/T-dtPt28AY4"
+    },{
         titulo: "Crepioca",
         ingredientes: [
             {
@@ -360,6 +405,34 @@ const receitas = [
         ],
         foto: crepioca,
         url: "https://www.youtube.com/watch?v=mQ8tcndECh4"
+    },{
+        titulo: "Crepioca 2 (Igor Rocha)",
+        ingredientes: [
+            {
+                qtd: "2 colheres (sopa) de",
+                nome: "goma de tapioca",
+            },
+            {
+                qtd: "1/3 xícara (240ml) de",
+                nome: "leite líquido",
+            },
+            {
+                qtd: "1 pitada de",
+                nome: "sal",
+            },
+            {
+                qtd: "1",
+                nome: "ovo",
+            }
+        ],
+        preparo: [
+            "Mexa o ovo com um garfo até ficar uniforme;",
+            "Coloque os outros ingredientes e também mexa com o garfo até ficar uniforme;",
+            "Coloque a massa numa frigideira até que dê para virar;",
+            "Preencha com o recheio que quiser e enrole (com o fogo ainda ligado, alguns segundos depois de virar)."
+        ],
+        foto: crepioca2,
+        url: "https://anamariabraga.globo.com/receita/crepioca-do-igor-rocha/"
     },/*{
         titulo: "[EM BREVE] Delícia de Abacaxi: [
             {
